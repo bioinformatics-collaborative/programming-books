@@ -1,6 +1,6 @@
-# Programmings Books
+# Programming Books
 
-A repository of `.pdf` formatted programming books and guides by topic.
+A repository of `.pdf` formatted programming books, guides, and cheat sheets.
 
 
 ## Directory Structure
